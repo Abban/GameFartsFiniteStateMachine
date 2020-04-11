@@ -1,0 +1,21 @@
+{
+    "name": "com.bigbadstudios.library.statemachine",
+    "version": "1.0.0",
+    "displayName": "BBX StateMachine",
+    "description": "A finite state machine system.",
+    "unity": "2019.1",
+    "author": {
+        "name": "Abban Dunne",
+        "url": "https://abandon.ie"
+    },
+    "samples": [
+        {
+            "displayName": "Example",
+            "description": "Example of using the StateMachine",
+            "path": "Samples~/Example"
+        }
+    ],
+    "dependencies": {
+        
+    }
+}
