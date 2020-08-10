@@ -1,6 +1,6 @@
 using System;
 
-namespace BBX.Library.FSM.Tests.Fixtures
+namespace GF.Library.FSM.Tests.Fixtures
 {
     public class TestStateNotAllowed : TestState
     {

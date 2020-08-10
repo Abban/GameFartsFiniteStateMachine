@@ -1,6 +1,6 @@
 ﻿using System;
 using UnityEngine;
-using BBX.Library.FSM;
+using GF.Library.FSM;
 
 namespace StateMachineExample
 {

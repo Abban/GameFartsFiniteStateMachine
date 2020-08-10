@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BBX.Library.FSM
+namespace GF.Library.FSM
 {
 	public interface IState
 	{

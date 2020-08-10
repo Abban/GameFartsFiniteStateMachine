@@ -1,9 +1,9 @@
 ﻿using System;
 using NUnit.Framework;
 using Debug = UnityEngine.Debug;
-using BBX.Library.FSM.Tests.Fixtures;
+using GF.Library.FSM.Tests.Fixtures;
 
-namespace BBX.Library.FSM.Tests
+namespace GF.Library.FSM.Tests
 {
     [TestFixture]
     public class StateMachineTests

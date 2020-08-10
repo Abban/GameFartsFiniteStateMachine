@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace BBX.Library.FSM.Tests.Fixtures
+namespace GF.Library.FSM.Tests.Fixtures
 {
     /// <summary>
     /// Might need this later for making sure the state machine creates exception logs 

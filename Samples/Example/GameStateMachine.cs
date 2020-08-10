@@ -1,5 +1,5 @@
 using System;
-using BBX.Library.FSM;
+using GF.Library.FSM;
 
 namespace StateMachineExample
 {

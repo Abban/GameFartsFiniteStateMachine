@@ -1,4 +1,4 @@
-# Big Bad Studios Unity Finite State Machine
+# Game Farts Unity Finite State Machine
 
 This is a small library for handling finite states in Unity.
 

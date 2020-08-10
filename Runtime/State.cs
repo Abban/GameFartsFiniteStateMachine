@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BBX.Library.FSM
+namespace GF.Library.FSM
 {
     public abstract class State : IState
     {

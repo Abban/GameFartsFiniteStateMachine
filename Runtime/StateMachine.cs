@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace BBX.Library.FSM
+namespace GF.Library.FSM
 {
     public class StateMachine : IStateMachine
     {
