@@ -19,10 +19,12 @@ namespace GF.Library.FSM
         public virtual void Update()
         {
         }
-        
-        
+
+
         /// <inheritdoc />
-        public abstract void Exit();
+        public virtual void Exit()
+        {
+        }
 
 
         /// <inheritdoc />
