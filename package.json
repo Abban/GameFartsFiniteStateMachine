@@ -1,6 +1,6 @@
 {
     "name": "com.gamefarts.library.statemachine",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Game Farts StateMachine",
     "description": "A finite state machine system.",
     "unity": "2019.1",

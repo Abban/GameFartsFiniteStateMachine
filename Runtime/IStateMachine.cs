@@ -2,12 +2,8 @@
 
 namespace GF.Library.FSM
 {
-    public interface IStateMachine
+    public interface IStateMachine : IStateMachineState
     {
-        IState CurrentState { get; }
-        Type LastStateType { get; }
-
-
         /// <summary>
         /// Try and change to a new state
         /// </summary>
